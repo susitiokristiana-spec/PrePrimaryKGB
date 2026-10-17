@@ -1,0 +1,6 @@
+{
+  "name": "KinderMath Safari - Fun Counting for Kindergarten B",
+  "description": "An interactive educational math game for Kindergarten B children to learn counting numbers 1-20 with cute animals and vibrant fruits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
